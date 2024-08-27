@@ -1,0 +1,66 @@
+25-08-2024 07:00:21 PM - Login_Logs - INFO - ********** Test_001_DDT_Login ****************
+25-08-2024 07:00:21 PM - Login_Logs - INFO - ********** Test_001_DDT_Login ****************
+25-08-2024 07:00:21 PM - Login_Logs - INFO - ********** Verifying Login DDT Test **********
+25-08-2024 07:00:21 PM - Login_Logs - INFO - ********** Verifying Login DDT Test **********
+25-08-2024 07:00:21 PM - Login_Logs - INFO - Starting DDT-Driven test with Username 'Admin' and password 'admin123'.
+25-08-2024 07:00:21 PM - Login_Logs - INFO - Starting DDT-Driven test with Username 'Admin' and password 'admin123'.
+25-08-2024 07:00:52 PM - Login_Logs - INFO - Login test with username 'Admin' and password 'admin123' Test passed!
+25-08-2024 07:00:52 PM - Login_Logs - INFO - Login test with username 'Admin' and password 'admin123' Test passed!
+25-08-2024 07:01:03 PM - Login_Logs - INFO - Test with username 'Admin' and password 'admin123' completed!
+25-08-2024 07:01:03 PM - Login_Logs - INFO - Test with username 'Admin' and password 'admin123' completed!
+25-08-2024 07:01:03 PM - Login_Logs - INFO - ********** Completed Test_001_DDT_Login **********
+25-08-2024 07:01:03 PM - Login_Logs - INFO - ********** Completed Test_001_DDT_Login **********
+25-08-2024 07:01:23 PM - Login_Logs - INFO - ********** Test_001_DDT_Login ****************
+25-08-2024 07:01:23 PM - Login_Logs - INFO - ********** Test_001_DDT_Login ****************
+25-08-2024 07:01:23 PM - Login_Logs - INFO - ********** Verifying Login DDT Test **********
+25-08-2024 07:01:23 PM - Login_Logs - INFO - ********** Verifying Login DDT Test **********
+25-08-2024 07:01:23 PM - Login_Logs - INFO - Starting DDT-Driven test with Username 'admin1' and password 'admin123'.
+25-08-2024 07:01:23 PM - Login_Logs - INFO - Starting DDT-Driven test with Username 'admin1' and password 'admin123'.
+25-08-2024 07:01:54 PM - Login_Logs - ERROR - Login test with username 'admin1' and password 'admin123' Test Passed!
+25-08-2024 07:01:54 PM - Login_Logs - ERROR - Login test with username 'admin1' and password 'admin123' Test Passed!
+25-08-2024 07:02:15 PM - Login_Logs - INFO - ********** Test_001_DDT_Login ****************
+25-08-2024 07:02:15 PM - Login_Logs - INFO - ********** Test_001_DDT_Login ****************
+25-08-2024 07:02:15 PM - Login_Logs - INFO - ********** Verifying Login DDT Test **********
+25-08-2024 07:02:15 PM - Login_Logs - INFO - ********** Verifying Login DDT Test **********
+25-08-2024 07:02:15 PM - Login_Logs - INFO - Starting DDT-Driven test with Username 'Admin' and password 'admin'.
+25-08-2024 07:02:15 PM - Login_Logs - INFO - Starting DDT-Driven test with Username 'Admin' and password 'admin'.
+25-08-2024 07:02:47 PM - Login_Logs - ERROR - Login test with username 'Admin' and password 'admin' Test Passed!
+25-08-2024 07:02:47 PM - Login_Logs - ERROR - Login test with username 'Admin' and password 'admin' Test Passed!
+25-08-2024 07:03:16 PM - Login_Logs - INFO - ********** Test_001_DDT_Login ****************
+25-08-2024 07:03:16 PM - Login_Logs - INFO - ********** Test_001_DDT_Login ****************
+25-08-2024 07:03:16 PM - Login_Logs - INFO - ********** Verifying Login DDT Test **********
+25-08-2024 07:03:16 PM - Login_Logs - INFO - ********** Verifying Login DDT Test **********
+25-08-2024 07:03:16 PM - Login_Logs - INFO - Starting DDT-Driven test with Username 'Admin123' and password 'Admin'.
+25-08-2024 07:03:16 PM - Login_Logs - INFO - Starting DDT-Driven test with Username 'Admin123' and password 'Admin'.
+25-08-2024 07:03:47 PM - Login_Logs - ERROR - Login test with username 'Admin123' and password 'Admin' Test Passed!
+25-08-2024 07:03:47 PM - Login_Logs - ERROR - Login test with username 'Admin123' and password 'Admin' Test Passed!
+25-08-2024 07:04:16 PM - Login_Logs - INFO - **********  Test_002_Login_Keyword **********
+25-08-2024 07:04:16 PM - Login_Logs - INFO - **********  Test_002_Login_Keyword **********
+25-08-2024 07:04:26 PM - Login_Logs - INFO - Starting Keyword Driven Test with Actions 'Enter Username'.
+25-08-2024 07:04:26 PM - Login_Logs - INFO - Starting Keyword Driven Test with Actions 'Enter Username'.
+25-08-2024 07:04:30 PM - Login_Logs - INFO - ********** Username Entered **********
+25-08-2024 07:04:30 PM - Login_Logs - INFO - ********** Username Entered **********
+25-08-2024 07:04:30 PM - Login_Logs - INFO - **********  Test_002_Login_Keyword **********
+25-08-2024 07:04:30 PM - Login_Logs - INFO - **********  Test_002_Login_Keyword **********
+25-08-2024 07:04:40 PM - Login_Logs - INFO - Starting Keyword Driven Test with Actions 'Enter Password'.
+25-08-2024 07:04:40 PM - Login_Logs - INFO - Starting Keyword Driven Test with Actions 'Enter Password'.
+25-08-2024 07:04:46 PM - Login_Logs - INFO - ********** Password Entered **********
+25-08-2024 07:04:46 PM - Login_Logs - INFO - ********** Password Entered **********
+25-08-2024 07:04:46 PM - Login_Logs - INFO - **********  Test_002_Login_Keyword **********
+25-08-2024 07:04:46 PM - Login_Logs - INFO - **********  Test_002_Login_Keyword **********
+25-08-2024 07:04:56 PM - Login_Logs - INFO - Starting Keyword Driven Test with Actions 'Click Login Button'.
+25-08-2024 07:04:56 PM - Login_Logs - INFO - Starting Keyword Driven Test with Actions 'Click Login Button'.
+25-08-2024 07:05:00 PM - Login_Logs - INFO - **********  Test_002_Login_Keyword **********
+25-08-2024 07:05:00 PM - Login_Logs - INFO - **********  Test_002_Login_Keyword **********
+25-08-2024 07:05:10 PM - Login_Logs - INFO - Starting Keyword Driven Test with Actions 'Verify Login Success'.
+25-08-2024 07:05:10 PM - Login_Logs - INFO - Starting Keyword Driven Test with Actions 'Verify Login Success'.
+25-08-2024 07:05:16 PM - Login_Logs - INFO - **********  Test_002_Login_Keyword **********
+25-08-2024 07:05:16 PM - Login_Logs - INFO - **********  Test_002_Login_Keyword **********
+25-08-2024 07:05:26 PM - Login_Logs - INFO - Starting Keyword Driven Test with Actions 'Add Employee'.
+25-08-2024 07:05:26 PM - Login_Logs - INFO - Starting Keyword Driven Test with Actions 'Add Employee'.
+25-08-2024 07:05:45 PM - Login_Logs - INFO - ********** Employee Added **********
+25-08-2024 07:05:45 PM - Login_Logs - INFO - ********** Employee Added **********
+25-08-2024 07:05:48 PM - Login_Logs - INFO - Test with action 'Add Employee' Completed.
+25-08-2024 07:05:48 PM - Login_Logs - INFO - Test with action 'Add Employee' Completed.
+25-08-2024 07:05:48 PM - Login_Logs - INFO - ********** Test_002_Login_Keyword Completed **********
+25-08-2024 07:05:48 PM - Login_Logs - INFO - ********** Test_002_Login_Keyword Completed **********

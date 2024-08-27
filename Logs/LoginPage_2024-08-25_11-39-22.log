@@ -1,0 +1,13 @@
+25-08-2024 11:39:27 AM - Login_Logs - INFO - **********  Test_002_Login_Keyword **********
+25-08-2024 11:39:37 AM - Login_Logs - INFO - Starting Keyword Driven Test with Actions 'Enter Username'.
+25-08-2024 11:39:41 AM - Login_Logs - INFO - ********** Username Entered **********
+25-08-2024 11:39:41 AM - Login_Logs - INFO - **********  Test_002_Login_Keyword **********
+25-08-2024 11:39:51 AM - Login_Logs - INFO - Starting Keyword Driven Test with Actions 'Enter Password'.
+25-08-2024 11:39:57 AM - Login_Logs - INFO - ********** Password Entered **********
+25-08-2024 11:39:57 AM - Login_Logs - INFO - **********  Test_002_Login_Keyword **********
+25-08-2024 11:40:07 AM - Login_Logs - INFO - Starting Keyword Driven Test with Actions 'Click Login Button'.
+25-08-2024 11:40:11 AM - Login_Logs - INFO - **********  Test_002_Login_Keyword **********
+25-08-2024 11:40:21 AM - Login_Logs - INFO - Starting Keyword Driven Test with Actions 'Verify Login Success'.
+25-08-2024 11:40:27 AM - Login_Logs - INFO - **********  Test_002_Login_Keyword **********
+25-08-2024 11:40:37 AM - Login_Logs - INFO - Starting Keyword Driven Test with Actions 'Add Employee'.
+25-08-2024 11:40:55 AM - Login_Logs - INFO - ********** Employee Added **********
