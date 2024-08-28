@@ -1,3 +1,0 @@
-"Bashafile"
-
-print("Testing Github")
