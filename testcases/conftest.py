@@ -9,7 +9,7 @@ def pytest_addoption(parser):
     parser.addoption("--browser")
 @pytest.fixture(scope="function")
 def datadriven_function_setup(request):
-    browser = request.config.getoption("--browser").lower()
+    browser = request.config.getoption("--browser")
 
     if browser == 'chrome':
         driver = webdriver.Chrome(executable_path=r"C:\Users\Lenovo\Downloads\chromedriver-win64\chromedriver-win64\chromedriver.exe")
